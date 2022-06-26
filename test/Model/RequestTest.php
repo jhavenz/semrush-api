@@ -142,4 +142,4 @@ class RequestTest extends TestCase {
         new Request(Type::TYPE_DOMAIN_RANKS, ['key' => 12, 'domain' => $this->domain]);
     }
 
-} 
+}
